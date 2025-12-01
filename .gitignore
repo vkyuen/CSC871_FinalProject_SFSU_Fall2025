@@ -40,5 +40,5 @@ wheels/
 .installed.cfg
 *.egg
 
-saved_models
+saved_models*
 
